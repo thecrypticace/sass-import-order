@@ -1,0 +1,7 @@
+@import "./order-1";
+@import "./order-2";
+@import "./order-3.css";
+
+.info {
+  content: "The order above should be order-1, order-2, order-3";
+}
